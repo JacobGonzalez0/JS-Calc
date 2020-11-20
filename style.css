@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    border:0;
+    font-family: 'Roboto', sans-serif;
+}
+
+:root {
+    --main-bg-color: rgb(51, 51, 51);
+    --light-keys: rgb(232, 232, 232);
+    --light-keys-hover: rgb(160, 160, 160);
+    --color-keys: rgb(230, 152, 7);
+    --color-keys-hover: rgb(148, 104, 21);
+
+}
+
+body{
+    height:100%;
+}
+
+
+
+.container{
+    width:200px;
+    background-color:var(--main-bg-color);
+    border-radius:5px;
+}
+
+#output{
+
+    text-align:right;
+    padding:10px;
+    font-size:2.2em;
+    color:white;
+}
+
+.row-one{
+    display:grid;
+    grid-template-columns: repeat(4, 50px);
+}
+
+.row-one div{
+    background-color: var(--light-keys);
+    color:black;
+    border: 1px solid var(--main-bg-color);
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.row-one div:hover{
+    background-color: var(--light-keys-hover);
+    color:black;
+}
+
+.row-one div:last-child{
+    background-color: var(--color-keys);
+    color:black;
+    border: 1px solid var(--main-bg-color);
+    padding: 10px 0px;
+    text-align: center;
+    color:white;
+}
+
+.row-two{
+    display:grid;
+    grid-template-columns: repeat(4, 50px);
+}
+
+.row-two div{
+    background-color: var(--light-keys);
+    color:black;
+    border: 1px solid var(--main-bg-color);
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.row-two div:hover{
+    background-color: var(--light-keys-hover);
+    color:black;
+}
+
+.row-two div:last-child{
+    background-color: var(--color-keys);
+    color:black;
+    border: 1px solid var(--main-bg-color);
+    padding: 10px 0px;
+    text-align: center;
+    color:white;
+}
+
+.row-three{
+    display:grid;
+    grid-template-columns: repeat(4, 50px);
+}
+
+.row-three div{
+    background-color: var(--light-keys);
+    color:black;
+    border: 1px solid var(--main-bg-color);
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.row-three div:hover{
+    background-color: var(--light-keys-hover);
+    color:black;
+}
+
+.row-three div:last-child{
+    background-color: var(--color-keys);
+    color:black;
+    border: 1px solid var(--main-bg-color);
+    padding: 10px 0px;
+    text-align: center;
+    color:white;
+}
+
+.row-four{
+    display:grid;
+    grid-template-columns: repeat(4, 50px);
+}
+
+.row-four div{
+    background-color: var(--light-keys);
+    color:black;
+    border: 1px solid var(--main-bg-color);
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.row-four div:hover{
+    background-color: var(--light-keys-hover);
+    color:black;
+}
+
+.row-four div:last-child{
+    background-color: var(--color-keys);
+    color:black;
+    border: 1px solid var(--main-bg-color);
+    padding: 10px 0px;
+    text-align: center;
+    color:white;
+}
+
+
+.row-five{
+    display:grid;
+    grid-template-columns: 100px 50px 50px;
+}
+
+.row-five div{
+    background-color: var(--light-keys);
+    color:black;
+    border: 1px solid var(--main-bg-color);
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.row-five div:hover{
+    background-color: var(--light-keys-hover);
+    color:black;
+}
+
+.row-five div:first-child{
+    border-radius: 0 0 0 5px;
+}
+
+.row-five div:last-child{
+    background-color: var(--color-keys);
+    color:black;
+    border: 1px solid var(--main-bg-color);
+    padding: 10px 0px;
+    text-align: center;
+    color:white;
+    border-radius: 0 0 5px 0;
+}
