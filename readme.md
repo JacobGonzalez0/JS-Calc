@@ -1,0 +1,8 @@
+# JS-Calc
+
+![enter image description here](https://lh3.googleusercontent.com/UDwyxda5nkLNNfNO-4jc-SIHmJfPDlQT-f9nELQmxDEPxZziBlZUfwSTgXxaxYamMO-1z2ZVJa0w40W20O3HfNpzFTbJtjgf_h-sFk-9H4nsSgtlwwlJZvPwfdiAOl6HazmyFuLAdeVpQ_kUvBnt6Qrf014aRm42AmFc-JZ8LBC9xZetgh1JQWlocfUAe5Xd-E2kmZlpMzchD4D_Jx6QWp3JBGibYu7lstMuLpq5Z0AqZrTRTwlT5QnFPSi-EVUv3fVPGHsB21qJy1PBoPE1xtWWPf0WdUHYA9AhfP8esh8-ZJS2HPCEB0q9_Sq9ydbpNzxCSI1nIoC6Mp23RjyEsihC2U0ihtmZS0TW0tEy7JWsUMzASXX0h7ChRoHQ4ov2dsY4Fb0tff4jQ4diieyQUTgGctAbUjqsFs_-ytCCV1EY1_Gqd1a64w_TD75w9Pjd5feZ9pDD1jen5WlpxquAQ7JLzkkZxaTa9v7HeqkHQN_VOcOTj8fTEb_uqF_pH2fuiM4jXKWATcvVgV6EZZiKtS0-VSMXR4pOLPkWOM4WzGWYIhB4NRpUGGUYOWpiEHc_2RnwnDHEQQFGDCGlqQYCs3SoAL1dpCpGZIaJwxAx9WymxNnNAJqOfH_m-LwBVSDDl16CV4HWDvarp6cucSlcZH18zMBzfDhTyfP1wKKHJd7s6lbTVA9mrcK79b-PfCgdMkDLhY4Q_n8_WSXTIYkNCQ=w201-h287-no?authuser=0)
+
+[Live here](https://jacobgonzalez0.github.io/JS-Calc/)
+
+This project is using one ES6 class with the minimal amount of variables as a challenge to create a calculator that is portable in any project in the future. The window is draggable as well!
+
